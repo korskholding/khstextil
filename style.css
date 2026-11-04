@@ -204,3 +204,4 @@ h1,h2,h3{overflow-wrap:break-word}
 @media (max-width:359px){.brand span:last-child{display:none}}
 @media (min-width:1001px){.nav a{white-space:nowrap}}
 @media (min-width:1001px) and (max-width:1199px){.brand span:last-child{display:none}.nav a{padding:10px 6px;font-size:.84rem}.bar>.lang-d a{min-width:30px;padding:0 6px}.bar .btn-sm{padding:0 14px}}
+.h1-eyebrow{display:block;letter-spacing:.02em;line-height:1.4}
